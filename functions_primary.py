@@ -1,5 +1,5 @@
-# author:
-# date:
+# author: Mya
+# date: 7/7/21
 
 
 # --------------- Section 1 --------------- #
@@ -25,6 +25,27 @@
 # 1 is done for you.
 
 print('The absolute value of -15 is:', abs(-15))
+print()
+
+hex_numb=hex(21)
+print(hex_numb,'is the hex for 21')
+print()
+
+print(id(hex_numb),'is the id for the hex number for 21')
+print()
+
+# excellent! don't forget to describe what's being printed
+print(pow(2,5),'is the number 2 to the 5th power.')
+print()
+
+# You want to use the string within the print statement, like above ^
+print(round(3.75321),'is the nearist interger for the number 3.75321')
+print()
+
+print('All together there are', len('Mya'+'Walker'), 'letters in my name')
+print()
+
+
 
 
 # --------------- Section 2 --------------- #
@@ -44,6 +65,11 @@ print('The absolute value of -15 is:', abs(-15))
 #
 # WRITE CODE BELOW
 
+#i probubly did all these wroung
+print('a function that can print out my name looks like this {print()}')
+print()
+
+print('you could use the \'def\' function to save and print multiple thigs at once such as animals')
 
 # 2 | Function Definitions with Parameters
 #
